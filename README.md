@@ -74,10 +74,10 @@ My personal portfolio showcasing my professional profile, research, and engineer
 
 <div align="left">
   <a href="https://aliodeh.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-aliodeh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-aliodeh.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/aliodeh-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-aliodeh--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-aliodeh--dev-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
